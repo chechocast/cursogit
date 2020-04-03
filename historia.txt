@@ -7,3 +7,5 @@ en el curso de platzi de git
 ademas de esto el profesor es muy marica
 
 El man habla muy raro
+
+ya estamos usando html
