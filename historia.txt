@@ -1,0 +1,5 @@
+Esta es la histori a de julian
+
+julian es una prueba para ver los archivos que se estan guardando
+
+en el curso de platzi de git
