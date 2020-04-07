@@ -1,7 +1,8 @@
 body{
-    text-align: center;
+    text-align: left;
     font-size: 16px;
-    color: goldenrod;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .content{
@@ -12,5 +13,21 @@ body{
 .post{
     border: steelblue 4px solid;
     border-radius: 10px;
-    margin: 0 50px;
+    padding: 10px 50px;
+}
+header{
+    font-size: 25px;
+    text-align: left;
+    font-weight: bold;
+    color: #FFF;
+    background: indigo;
+    margin: 0 0 20px;
+    border-radius: 5px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+header span{
+    font-size: 16px;
+    font-weight: initial;
 }
