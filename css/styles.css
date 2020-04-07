@@ -1,6 +1,17 @@
 body{
     text-align: center;
     font-size: 16px;
-    color: aqua;
+    color: goldenrod;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    width: 70%;
+    margin: 20px auto;
+}
+
+.post{
+    border: steelblue 4px solid;
+    border-radius: 10px;
+    margin: 0 50px;
 }
