@@ -20,11 +20,19 @@ header{
     text-align: left;
     font-weight: bold;
     color: #FFF;
-    background: indigo;
+    background: mediumslateblue;
     margin: 0 0 20px;
     border-radius: 5px;
     padding: 50px;
     box-sizing: border-box;
+}
+
+.logo{
+    height: 50px;
+    vertical-align: middle;
+}
+.clear{
+    clear: both;
 }
 
 header span{
