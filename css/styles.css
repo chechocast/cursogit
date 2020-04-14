@@ -31,3 +31,11 @@ header span{
     font-size: 16px;
     font-weight: initial;
 }
+
+footer{
+    text-align: center;
+    color: #FFF;
+    background: rebeccapurple;
+    font-size: 14px;
+    padding: 10px 0;
+}
